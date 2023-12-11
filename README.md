@@ -22,4 +22,4 @@ Modified from [Content and Style CNNs](https://github.com/giddyyupp/style-conten
 Please see the results in this [google drive folder](https://drive.google.com/drive/u/1/folders/1bsZde3Dn_5uQObi713JTVqeNFkk6_wCO).
 
 ## Acknowledgments
-This project is built on the work and with the help of [pix2pix](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix), [CycleGAN](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix) and [GANILLA](https://github.com/giddyyupp/ganilla).
+This project is built on the work and with the help of [pix2pix](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix), [CycleGAN](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix), [GANILLA](https://github.com/giddyyupp/ganilla) and [Style CNN](https://github.com/giddyyupp/style-content-cnn).
